@@ -1,2 +1,2 @@
 # amazon
-this file help you to how to use the amazon web services
+this file helps you to how to use the amazon web services
