@@ -1,9 +1,9 @@
 git branch 
 git branch -m oldname newname
-
-git checkout -b branchname
+git branch -m rename
+git checkout branchname
 git branch -d bn
-
+git checkout -b bn
 
 
 
