@@ -1,0 +1,16 @@
+git branch 
+git branch -m oldname newname
+
+git checkout -b branchname
+git branch -d bn
+
+
+
+
+
+
+
+
+
+
+
