@@ -1,0 +1,7 @@
+git commands 
+git add ,git commit -m "msg",git pull ,git clone,git fetch
+git pull,git rebase
+stash 
+cherry-pick
+merge
+:wq
